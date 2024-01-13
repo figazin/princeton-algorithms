@@ -7,5 +7,8 @@ All exercises make use of the algs4.jar library which is needed at compile time 
 ### Exercise 1: Hello World
 https://coursera.cs.princeton.edu/algs4/assignments/hello/specification.php
 
-### Excersise 2: Percolation
+### Exercise 2: Percolation
 https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
+
+### Exercise 3: Queues
+https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php
